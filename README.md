@@ -22,6 +22,14 @@ This project is a smart **Haptic Glove** that leverages **IoT** and various **se
   - Wi-Fi / Bluetooth (MQTT or HTTP protocols)
 - **Cloud Platform**:
   - Firebase / ThingSpeak / Blynk / Custom Web Dashboard
+ 
+
+
+
+
+https://github.com/user-attachments/assets/2271117d-739a-4248-aa45-c08c332501fc
+
+
 
 
 
